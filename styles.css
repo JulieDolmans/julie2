@@ -1,0 +1,26 @@
+body {
+  margin:0;
+}
+h1 {
+  margin-top:0
+}
+.top-container {
+  background-color: #f0eec9;
+
+}
+.middle-container {
+  margin:0;
+  width:200px;
+  height:200px;
+  background-color: #9ee6cf;
+}
+.bottom-container {
+  margin:0;
+  width: 200px;
+  height:200px;
+  background-color: #50c9ba;
+}
+
+.pro {
+  text-decoration:underline;
+}
